@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f052a18b-20f2-49a2-8337-f50a7baf596b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Layout-html5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/box.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/box.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/box2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/display và inline-block.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/display.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/overflow và float.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/overflow.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,8 +39,10 @@
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "JavaScript Debug.Danhsach.html.executor": "Run",
+    "JavaScript Debug.Layout-html5.html.executor": "Run",
     "JavaScript Debug.box.html.executor": "Run",
     "JavaScript Debug.box2.html.executor": "Run",
+    "JavaScript Debug.display và inline-block.html.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -74,7 +75,7 @@
       <workItem from="1753186278527" duration="741000" />
       <workItem from="1753187582750" duration="543000" />
       <workItem from="1753192065536" duration="20000" />
-      <workItem from="1753964075462" duration="821000" />
+      <workItem from="1753964075462" duration="1385000" />
     </task>
     <servers />
   </component>
